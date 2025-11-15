@@ -1,2 +1,2 @@
 # rehanmallick-demo
-this is a demo repository
+this is a demo for GIT & GITHUB class.
